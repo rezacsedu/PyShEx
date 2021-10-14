@@ -3,7 +3,7 @@ from typing import Union, Optional
 
 from pyshexc.parser_impl.generate_shexj import load_shex_file
 from rdflib import Namespace, Graph, RDF, RDFS, XSD, URIRef, plugins
-from rdflib.namespace import DOAP, FOAF, DC, DCTERMS, SKOS, OWL, XMLNS, _RDFNamespace
+from rdflib.namespace import DOAP, FOAF, DC, DCTERMS, SKOS, OWL, XMLNS
 from rdflib.plugins.serializers.turtle import TurtleSerializer
 from rdflib.serializer import Serializer
 
