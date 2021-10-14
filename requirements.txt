@@ -12,9 +12,6 @@
 
 cfgraph>=0.2.1
 pyshexc==0.8.3
-rdflib>=6.0.1
 requests>=2.22.0
 shexjsg>=0.7.1
-sparqlslurper>=0.4
-sparqlwrapper>=1.8.5
 urllib3
